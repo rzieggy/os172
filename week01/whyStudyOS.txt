@@ -1,1 +1,8 @@
 #rzieggy
+
+Kenapa harus belajar OS?
+Pertama, Operating System itu dasarnya sebuah software komputer. Tidak ada OS maka tidak akan ada aplikasi yang bisa dibuat seperti sekarang kita pakai sehari-hari. Mayoritas dampak teknologi yang kita rasakan sekarang berasal dari OS, berawal dari OS.
+Kedua, dengan belajar OS kita jadi lebih faham cara kerja sebuah komputer. Mindset atau pola pikir kita terhadap komputer tentu akan berbeda. Karena sesungguhnya komputer hanya sebuah mesin, tidak bisa melakukan tanpa kendali manusia. Jadi kita sebagai manusia harus bisa faham terlebih dahulu cara kerja komputer.
+Ketiga, bisa sebagai wadah untuk melatih kesabaran kita menghadapi kompleksitas sebuah komputer. Kita jadi bisa menanggapi masalah di sebuah komputer dengan lebih bijak, lebih tenang dan tidak asal bunyi (asbun).
+Terakhir tentu saja tidak akan ada ilmu yang sia-sia. Saya percaya pelajaran ini akan berguna suatu hari nanti. Mungkin belum saya rasakan sekarang, tapi nanti, entah itu masih lama atau mungkin besok pasti akan muncul secara perlahan kegunaan dari pelajaran OS ini.
+Terima kasih.
