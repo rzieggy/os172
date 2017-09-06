@@ -20,3 +20,5 @@ drwxr-xr-x  2 zieggy.ronnavelly StafCS 4096 Sep  6 01:48 week09
 drwxr-xr-x  2 zieggy.ronnavelly StafCS 4096 Sep  6 01:48 week10
 drwxr-xr-x  2 zieggy.ronnavelly StafCS 4096 Sep  6 01:49 xtra
 /home/fasilkom/mahasiswa/z/zieggy.ronnavelly/os172/week01
+06 Sep 2017 at 17:12:37
+Today is 
